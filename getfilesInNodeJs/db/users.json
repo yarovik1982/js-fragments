@@ -1,0 +1,7 @@
+[
+   {"userId":"1", "userName":"userName_1", "userEmail": "user_1@user_1_mail.com", "userPassword": "password_1"},
+   {"userId":"2", "userName":"userName_2", "userEmail": "user_1@user_2_mail.com", "userPassword": "password_2"},
+   {"userId":"3", "userName":"userName_3", "userEmail": "user_1@user_3_mail.com", "userPassword": "password_3"},
+   {"userId":"4", "userName":"userName_4", "userEmail": "user_1@user_4_mail.com", "userPassword": "password_4"},
+   {"userId":"5", "userName":"userName_5", "userEmail": "user_1@user_5_mail.com", "userPassword": "password_5"}
+]
